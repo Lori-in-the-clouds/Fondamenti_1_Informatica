@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esetcizio10\main.c(6,18): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esetcizio10\main.c(12,18): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esetcizio10\main.c(3,9): warning C4101: 'ris': variabile locale senza riferimenti
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esetcizio10\main.c(21,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esetcizio10\main.c(19,12): warning C4101: 'i': variabile locale senza riferimenti
+  esetcizio10.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esetcizio10\Debug\esetcizio10.exe

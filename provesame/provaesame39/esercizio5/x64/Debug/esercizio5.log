@@ -1,0 +1,8 @@
+﻿  main.c
+  somma_stringhe.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame39\esercizio5\somma_stringhe.c(10,32): warning C4013: 'atollu' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame39\esercizio5\somma_stringhe.c(14,11): warning C4047: 'return': 'char *' differisce da 'char' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame39\esercizio5\somma_stringhe.c(24,19): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame39\esercizio5\somma_stringhe.c(28,22): warning C4244: 'inizializzazione': conversione da 'double' a '__int64'. Possibile perdita di dati.
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame39\esercizio5\main.c : fatal error C1090: Chiamata API PDB non riuscita. Codice errore '3': C:\Users\utente\Desktop\Progetti in c\provesame\provaesame39\esercizio5\x64\Debug\vc143.pdb

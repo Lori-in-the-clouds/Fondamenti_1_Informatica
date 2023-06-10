@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio11\main.c(1,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio11\main.c(4,9): warning C4244: '=': conversione da 'double' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio11\main.c(5,9): warning C4244: '=': conversione da 'double' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio11\main.c(6,9): warning C4244: '=': conversione da 'double' a 'unsigned int'. Possibile perdita di dati.
+  esercizio11.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio11\Debug\esercizio11.exe

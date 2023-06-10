@@ -1,0 +1,7 @@
+﻿  images.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame42\esercizio5\images.c(21,19): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame42\esercizio5\main.c(7,18): warning C4047: 'funzione': 'size_t *' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame42\esercizio5\main.c(7,16): warning C4024: 'read_images': tipi diversi tra il parametro 2 formale e quello effettivo
+  Generazione del codice in corso...
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame42\esercizio5\x64\Debug\esercizio5.exe

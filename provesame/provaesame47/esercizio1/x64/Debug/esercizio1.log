@@ -1,0 +1,5 @@
+﻿  main.c
+  newton.c
+  Generazione del codice in corso...
+newton.obj : error LNK2005: newton già definito in main.obj
+C:\Users\utente\Desktop\Progetti in c\provaesame47\esercizio1\x64\Debug\esercizio1.exe : fatal error LNK1169: rilevato uno o più simboli definiti più volte

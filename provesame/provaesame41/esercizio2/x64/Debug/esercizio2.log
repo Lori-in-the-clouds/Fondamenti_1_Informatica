@@ -1,0 +1,6 @@
+﻿  l5r.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio2\l5r.c(3,25): warning C4554: '|': controllare eventuali errori di precedenza tra gli operatori. Per maggiore chiarezza, usare le parentesi
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio2\l5r.c(13,15): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  main.c
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio2\x64\Debug\esercizio2.exe

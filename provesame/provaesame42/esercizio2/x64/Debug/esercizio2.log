@@ -1,0 +1,5 @@
+﻿  main.c
+  morse.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame42\esercizio2\morse.c(6,18): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame42\esercizio2\x64\Debug\esercizio2.exe

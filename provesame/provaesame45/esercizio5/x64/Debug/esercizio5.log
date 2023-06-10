@@ -1,0 +1,4 @@
+﻿  nonogram.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio5\nonogram.c(13,12): warning C4477: 'fscanf': con la stringa di formato '%i' è necessario un argomento di tipo 'int *', ma il tipo dell'argomento variadic 1 è 'size_t *'
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio5\nonogram.c(13,12): message : provare a usare '%zi' nella stringa di formato
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio5\x64\Debug\esercizio5.exe

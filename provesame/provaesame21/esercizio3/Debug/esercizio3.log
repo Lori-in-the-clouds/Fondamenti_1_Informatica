@@ -1,0 +1,10 @@
+﻿  operazione.c
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(11,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(21,18): warning C4305: '=': troncamento da 'int' a 'char'
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(30,18): warning C4305: '=': troncamento da 'int' a 'char'
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(47,17): warning C4305: '=': troncamento da 'int' a 'char'
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(68,20): warning C4305: '=': troncamento da 'int' a 'char'
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(76,20): warning C4305: '=': troncamento da 'int' a 'char'
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(98,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\operazione.c(103,17): warning C4305: '=': troncamento da 'int' a 'char'
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio3\Debug\esercizio3.exe

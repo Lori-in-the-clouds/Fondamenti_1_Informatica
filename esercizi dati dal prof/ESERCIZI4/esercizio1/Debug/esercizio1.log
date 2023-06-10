@@ -1,0 +1,4 @@
+﻿  stringhe.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI4\esercizio1\stringhe.c(19,17): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI4\esercizio1\stringhe.c(23,19): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI4\esercizio1\Debug\esercizio1.exe

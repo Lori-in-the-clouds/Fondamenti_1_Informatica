@@ -1,0 +1,6 @@
+﻿  main.c
+  rle.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame40\esercizio2\rle.c(10,14): warning C4047: 'return': 'bool' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame40\esercizio2\rle.c(16,14): warning C4047: 'return': 'bool' differisce da 'void *' nei livelli di riferimento indiretto
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame40\esercizio2\x64\Debug\esercizio2.exe

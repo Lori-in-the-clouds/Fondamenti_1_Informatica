@@ -1,0 +1,10 @@
+#define CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include "lettura.h"
+int main(void) {
+    char* s = "nomedelfile";
+    size_t r = 5;
+    leggiinteri(s, r);
+ }

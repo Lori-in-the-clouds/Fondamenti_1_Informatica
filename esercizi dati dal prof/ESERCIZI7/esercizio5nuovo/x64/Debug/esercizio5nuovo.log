@@ -1,0 +1,6 @@
+﻿  bin.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio5nuovo\bin.c(29,10): warning C4477: 'printf': con la stringa di formato '%i' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'unsigned __int64'
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio5nuovo\bin.c(29,10): message : provare a usare '%lli' nella stringa di formato
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio5nuovo\bin.c(29,10): message : provare a usare '%Ii' nella stringa di formato
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio5nuovo\bin.c(29,10): message : provare a usare '%I64i' nella stringa di formato
+  esercizio5nuovo.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio5nuovo\x64\Debug\esercizio5nuovo.exe

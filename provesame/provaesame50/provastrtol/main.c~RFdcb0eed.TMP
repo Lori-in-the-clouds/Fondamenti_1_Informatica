@@ -1,0 +1,17 @@
+#include <stdlib.h>
+#include <stdio.h>
+int main(void) {
+	int n = 11;
+	char* s = "303";
+	int num = strtol(s, NULL, 16);
+	printf("%x", n);
+	//controllo se è un numero primo
+	int div = 2;
+	while (div != n) {
+		if (n % div == 0) {
+			return 0;
+		}
+		div++;
+	}
+	return 1;
+}

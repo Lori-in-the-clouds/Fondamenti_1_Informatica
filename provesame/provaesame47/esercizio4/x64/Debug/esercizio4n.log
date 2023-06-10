@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame47\esercizio4n\main.c(11,25): warning C4133: 'funzione': tipi non compatibili. Da 'scacchiera *' a 'const scaccchiera *'
+  scacchiera.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame47\esercizio4n\scacchiera.c(7,49): warning C4028: parametro formale 1 differente dalla dichiarazione
+  Generazione del codice in corso...
+  esercizio4n.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame47\esercizio4n\x64\Debug\esercizio4n.exe

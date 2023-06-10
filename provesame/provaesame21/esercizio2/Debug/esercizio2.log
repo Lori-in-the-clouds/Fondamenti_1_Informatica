@@ -1,0 +1,5 @@
+﻿  punto.c
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio2\punto.h(3,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio2\punto.c(13,52): warning C4244: '=': conversione da 'double' a 'size_t'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio2\punto.c(14,44): warning C4244: '=': conversione da 'double' a 'size_t'. Possibile perdita di dati.
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provaesame\esercizio2\Debug\esercizio2.exe

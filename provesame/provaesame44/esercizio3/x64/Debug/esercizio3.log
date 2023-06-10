@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame44\esercizio3\main.c(16,19): error C2059: errore di sintassi: ')'
+  matrix.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame44\esercizio3\matrix.c : fatal error C1090: Chiamata API PDB non riuscita. Codice errore '3': C:\Users\utente\Desktop\Progetti in c\provesame\provaesame44\esercizio3\x64\Debug\vc143.pdb

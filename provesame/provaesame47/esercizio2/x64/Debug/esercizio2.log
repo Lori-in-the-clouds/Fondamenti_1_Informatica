@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provaesame47\esercizio2\main.c(12,15): warning C4047: 'funzione': 'size_t *' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provaesame47\esercizio2\main.c(12,13): warning C4024: 'slicing': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\utente\Desktop\Progetti in c\provaesame47\esercizio2\main.c(11,1): warning C4047: 'inizializzazione': 'size_t *' differisce da 'int' nei livelli di riferimento indiretto
+  slicing.c
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provaesame47\esercizio2\x64\Debug\esercizio2.exe

@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio2\main.c(8,35): warning C4047: 'funzione': 'size_t' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio2\main.c(8,33): warning C4024: 'nonogram_row': tipi diversi tra il parametro 2 formale e quello effettivo
+  nonogram_row.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio2\nonogram_row.c(26,13): warning C4267: '=': conversione da 'size_t' a 'uint8_t'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame45\esercizio2\x64\Debug\esercizio2.exe

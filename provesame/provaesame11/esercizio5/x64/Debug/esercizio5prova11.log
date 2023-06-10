@@ -1,0 +1,7 @@
+﻿  main.c
+  stringhe.c
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova11\stringhe.c(26,16): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova11\stringhe.c(12,18): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova11\stringhe.c(28,19): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio5prova11.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova11\x64\Debug\esercizio5prova11.exe

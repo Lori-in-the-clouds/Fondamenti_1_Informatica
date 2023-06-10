@@ -1,0 +1,4 @@
+﻿  max.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio7\max.c(24,11): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio7\max.c(28,13): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  esercizio7.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI7\esercizio7\Debug\esercizio7.exe

@@ -1,0 +1,3 @@
+﻿  inverti.c
+C:\Users\utente\Desktop\Progetti in c\provaesame1\esercizio4\inverti.c(16,36): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provaesame1\esercizio4\Debug\esercizio4.exe

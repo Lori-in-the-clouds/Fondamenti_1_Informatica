@@ -1,0 +1,8 @@
+7 
+marco 26
+giovanni 27
+luigi 18
+lillo 15
+fario 18
+andre 45
+lorenzo 19

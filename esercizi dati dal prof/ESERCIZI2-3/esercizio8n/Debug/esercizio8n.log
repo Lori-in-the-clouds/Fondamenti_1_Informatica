@@ -1,0 +1,8 @@
+﻿  fattoriale.c
+  main.c
+  potenza.c
+  seno.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio8n\seno.c(7,14): warning C4013: 'potenza' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio8n\seno.c(8,15): warning C4013: 'potenzann' non definita. Verrà considerata come esterna che restituisce un int.
+  Generazione del codice in corso...
+  esercizio8n.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio8n\Debug\esercizio8n.exe

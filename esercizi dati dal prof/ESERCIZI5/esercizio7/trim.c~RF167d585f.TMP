@@ -1,0 +1,45 @@
+#include <stdlib.h>
+#include <string.h>
+char* trim(const char* s) {
+	int quanti = 0;
+	int quanti1 = 0;
+	int j = 1;
+	int r = 1;
+
+	if (s == "") {
+		return NULL;
+	}
+	int lungh = strlen(s);
+	//controllo quanta memoria devo togliere
+	
+		if (s[0] == ' ') {
+			quanti++;
+			quanti1++;
+			while (s[0 + j] == ' ') {  
+				quanti++;
+				quanti1++;
+				j++;
+			}
+			
+		}
+		if (s[lungh-1] == ' ') {
+			while (s[lungh - r] == ' ') { 
+				quanti++;
+				r++;
+			}
+		}
+	
+	//creo spazio modificato per stringa ris
+		char *ris = malloc((lungh-quanti+1) * sizeof(char));
+		for (int i = 0; i < (lungh - quanti); i++) { //sposto tutto per metterlo nella nuova stringa 
+			ris[i] = s[quanti1];
+				quanti1++;
+	}
+	
+	//aggiungo il terminatore
+		ris[lungh - quanti] = '\0';
+		free(ris);
+		return ris;
+	
+	
+}

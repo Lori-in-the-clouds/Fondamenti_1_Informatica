@@ -1,0 +1,5 @@
+﻿  main.c
+  quadrati_progressivi.c
+C:\Users\utente\Desktop\provaesamedef\esercizio4\quadrati_progressivi.c(5,16): error C2065: 'div': identificatore non dichiarato
+C:\Users\utente\Desktop\provaesamedef\esercizio4\quadrati_progressivi.c(14,14): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...

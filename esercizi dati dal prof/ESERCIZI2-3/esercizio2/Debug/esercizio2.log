@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio2\main.c(1,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio2\main.c(2,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio2\main.c(6,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio2\Debug\esercizio2.exe

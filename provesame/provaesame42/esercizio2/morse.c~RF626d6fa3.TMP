@@ -1,0 +1,216 @@
+#include <string.h>
+#include <stdlib.h>
+char* codifica_morse(const char* testo) {
+	int n = 1;
+	char* ris = malloc(n * sizeof(char));
+	int num = strlen(testo);
+	int j = 0;
+	for (int i = 0; i < num; i++) {
+		if (testo[i]=='A') {
+			ris = realloc(ris, n+3 * sizeof(char));
+				ris[j] = '•';
+				j++;
+				ris[j] = '_';
+				
+		}
+	
+	    if (testo[i] == 'B') {
+			ris = realloc(ris, n + 4 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+		 }
+		if (testo[i] == 'C') {
+			ris = realloc(ris, n + 3 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '_';
+			j++;
+			
+		}
+		if (testo[i] == 'D') {
+			ris = realloc(ris, n + 3 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+			
+		}
+		if (testo[i] == 'E') {
+			ris = realloc(ris, n+1 * sizeof(char));
+			ris[j] = '•';
+			j++;
+			
+		}
+		if (testo[i] == 'F') {
+			ris = realloc(ris, n+4 * sizeof(char));
+			ris[j] = '•';
+			j++; 
+			ris[j] = '•';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+		}
+		if (testo[i] == 'G') {
+			ris = realloc(ris, n+3 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+		}
+		if (testo[i] == 'H') {
+			ris = realloc(ris, n + 4 * sizeof(char));
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+		}
+		if (testo[i] == 'I') {
+			ris = realloc(ris, n + 2 * sizeof(char));
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+			
+		}
+		if (testo[i] == 'J') {
+			ris = realloc(ris, n + 4 * sizeof(char));
+			ris[j] = '•';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+			
+		}
+		if (testo[i] == 'K') {
+			ris = realloc(ris, n + 3 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '_';
+			j++;
+			
+		}
+		if (testo[i] == 'L') {
+			ris = realloc(ris, n + 4 * sizeof(char));
+			ris[j] = '•';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+			ris[j] = '•';
+			j++;
+			
+		}
+		if (testo[i] == 'M') {
+			ris = realloc(ris, n+2 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+		}
+		if (testo[i] == 'N') {
+			ris = realloc(ris, n + 2 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+		}
+		if (testo[i] == 'O') {
+			ris = realloc(ris, n+3 * sizeof(char));
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+		}
+		if (testo[i] == 'P') {
+			ris = realloc(ris, n+4 * sizeof(char));
+			ris[j] = '•';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '_';
+			j++;
+			ris[j] = '•';
+			j++;
+		}
+		if (testo[i] == 'Q') {
+			ris[i] = "__•_";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'R') {
+			ris[i] = "•_•";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'S') {
+			ris[i] = "•••";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'T') {
+			ris[i] = "_";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'U') {
+			ris[i] = "••_";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'V') {
+			ris[i] = "•••_";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'W') {
+			ris[i] = "•__";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'X') {
+			ris[i] = "_••_";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'Y') {
+			ris[i] = "_•__";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == 'Z') {
+			ris[i] = "__••";
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+		if (testo[i] == ' ') {
+			ris[i] = ' ';
+			n++;
+			ris = realloc(ris, n * sizeof(char));
+		}
+
+}

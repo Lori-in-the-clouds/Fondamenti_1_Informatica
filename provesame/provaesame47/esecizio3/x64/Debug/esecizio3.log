@@ -1,0 +1,4 @@
+﻿  hangman.c
+C:\Users\utente\Desktop\Progetti in c\provaesame47\esecizio3\hangman.c(21,18): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provaesame47\esecizio3\hangman.c(22,19): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  esecizio3.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provaesame47\esecizio3\x64\Debug\esecizio3.exe

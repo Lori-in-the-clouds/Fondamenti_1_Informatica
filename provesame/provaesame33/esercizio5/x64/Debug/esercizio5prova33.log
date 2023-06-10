@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova33\main.c(13,22): warning C4047: 'funzione': 'tirocinio *' differisce da 'tirocinio **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova33\main.c(13,20): warning C4024: 'tirocinio_load': tipi diversi tra il parametro 2 formale e quello effettivo
+  tirocini.c
+  Generazione del codice in corso...
+  esercizio5prova33.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\esercizio5prova33\x64\Debug\esercizio5prova33.exe

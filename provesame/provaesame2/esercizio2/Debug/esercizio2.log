@@ -1,0 +1,8 @@
+﻿  main.c
+  quadrati.c
+C:\Users\utente\Desktop\Progetti in c\provaesame2\esercizio2\quadrati.c(6,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\provaesame2\esercizio2\quadrati.c(11,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\provaesame2\esercizio2\quadrati.c(13,22): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\provaesame2\esercizio2\quadrati.c(18,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provaesame2\esercizio2\Debug\esercizio2.exe

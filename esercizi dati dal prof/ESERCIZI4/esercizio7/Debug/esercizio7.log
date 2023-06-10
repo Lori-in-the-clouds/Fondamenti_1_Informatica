@@ -1,0 +1,4 @@
+﻿  bcd.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI4\esercizio7\bcd.c(29,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI4\esercizio7\bcd.c(70): warning C4716: 'bin2bcd': deve restituire un valore
+  esercizio7.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI4\esercizio7\Debug\esercizio7.exe

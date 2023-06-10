@@ -1,0 +1,5 @@
+﻿  map.c
+C:\Users\utente\Desktop\provaesamedef\eserczio5\map.c(13,27): warning C4477: 'fscanf': con la stringa di formato '%i' è necessario un argomento di tipo 'int *', ma il tipo dell'argomento variadic 1 è 'int **'
+C:\Users\utente\Desktop\provaesamedef\eserczio5\map.c(22): warning C4715: 'load_connections': non tutti i percorsi di controllo restituiscono un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\utente\Desktop\provaesamedef\eserczio5\x64\Debug\eserczio5.exe : fatal error LNK1120: 1 esterni non risolti

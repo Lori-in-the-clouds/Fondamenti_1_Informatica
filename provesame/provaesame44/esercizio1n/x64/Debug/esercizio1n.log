@@ -1,0 +1,3 @@
+﻿  table.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame44\esercizio1n\table.c(8,11): warning C4098: 'print_table': la funzione 'void' restituisce un valore
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame44\esercizio1n\table.c(12,20): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.

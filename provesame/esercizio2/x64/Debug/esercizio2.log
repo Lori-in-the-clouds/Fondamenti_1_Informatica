@@ -1,0 +1,13 @@
+﻿  main.c
+  primigemelli.c
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(61,16): warning C4047: '==': 'uint32_t *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(61,7): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(62,16): warning C4047: '==': 'uint32_t *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(62,7): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(72,16): warning C4047: '==': 'uint32_t *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(72,7): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(73,16): warning C4047: '==': 'uint32_t *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(73,7): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\primigemelli.c(82): warning C4715: 'primigemelli': non tutti i percorsi di controllo restituiscono un valore
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\esercizio2\x64\Debug\esercizio2.exe

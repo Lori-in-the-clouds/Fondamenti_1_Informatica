@@ -1,0 +1,1 @@
+extern char* concatena(const char *prima, const char* seconda);

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio4\main.c(14,19): warning C4047: 'funzione': 'line *' differisce da 'line **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio4\main.c(14,15): warning C4024: 'line_load': tipi diversi tra il parametro 2 formale e quello effettivo
+  shapes.c
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio4\x64\Debug\esercizio4.exe

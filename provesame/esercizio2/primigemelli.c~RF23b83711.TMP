@@ -1,0 +1,53 @@
+#include <stdint.h>
+#include <stdbool.h>
+#include <stdlib.h>
+extern bool primigemelli(uint32_t start, uint32_t* x, uint32_t* y) {
+	uint32_t sostituto = start;
+	int n = 2;
+	int i = 0;
+	int contatore = 0;
+	int* ris = malloc(1 * sizeof(int));
+	bool numeroprimo1 = false;
+	bool numeroprimo2 = false;
+
+	
+		//controllo se start  è primo
+		int div = 2;
+		while (div!=start) {
+			if (start % div == 0) {
+				contatore++;
+			}
+			div++;
+		}
+		if (contatore == 1) {
+			ris[i] = start;
+			i++;
+			n++;
+			ris = realloc(ris,n * sizeof(int));
+		}
+		int k = start + 1;
+		contatore = 0;
+		while (numeroprimo1 == false && numeroprimo2 == false) {
+			int div = 2;
+			while (div != k) {
+				if (k % div == 0) {
+					contatore++;
+				}
+				div++;
+			}
+			if (contatore == 1) {
+				ris[i] = k;
+				i++;
+				n++;
+				ris = realloc(ris, n * sizeof(int));
+				if (i == 1) {
+					numeroprimo1 = true;
+				}
+				else {
+					numeroprimo2 = true;
+				}
+			}
+		}
+
+
+	}

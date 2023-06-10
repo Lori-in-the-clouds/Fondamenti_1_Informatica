@@ -1,0 +1,74 @@
+#include <stdbool.h>
+#include <string.h>
+bool is_pangram(const char* sentence) {
+	int num = strlen(sentence);
+	int cont = 0;
+	for (int i = 0; i < num; i++) {
+		if (sentence[i] >= 0 && sentence[i] <= 127) {
+			continue;
+		}
+		return false;
+	}
+/*for (int i = 0; i < num; i++) {
+		if (sentence[i]>= 'a' && sentence[i]<= 'z' ) {
+			for (int j = 0; j<num-i; j++) {
+				if (sentence[i] != sentence[j]) {
+					cont++;
+					
+
+					}
+				}
+
+			}
+			for (int s = i-1; s > 0; s--) {
+				if (sentence[i] != sentence[s]) {
+					cont++;
+				}
+			}
+		} 
+		
+		
+		
+		
+		
+		if (sentence[i] >= 'A' && sentence[i] <= 'Z' ) {
+			for (int j = 0; j < num - i; j++) {
+				if (sentence[i] != sentence[j]) {
+					cont++;
+				}
+
+			}
+			for (int s = i - 1; s > 0; s--) {
+				if (sentence[i] != sentence[s]) {
+					cont++;
+				}
+			}
+		}
+		
+	}
+		if (cont == 23) {
+			return true;
+		}*/
+	int m = 0;
+	int j = 97;
+	
+	for (int j = 97; j < 122; j++) {
+		int i = 0;
+			while (1) {
+				if (sentence[i] == j) {
+					break;
+				}
+				i++;
+				if (i == strlen(sentence)) {
+					return false;
+				}
+			}
+		}
+	
+	
+	return true;
+
+	 
+	
+	
+}

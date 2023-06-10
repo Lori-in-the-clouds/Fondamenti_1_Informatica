@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esericizio1\main.c(11,8): warning C4013: 'fprint' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esericizio1\main.c(10,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : vedere la dichiarazione di 'fopen'
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esericizio1\main.c(14,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : vedere la dichiarazione di 'fopen'
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esericizio1\main.c(18,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : vedere la dichiarazione di 'fopen'
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esericizio1\main.c(24,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : vedere la dichiarazione di 'fopen'

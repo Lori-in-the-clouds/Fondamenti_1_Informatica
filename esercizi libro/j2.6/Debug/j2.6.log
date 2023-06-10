@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi libro\j2.6\main.c(8,21): warning C4013: 'prodotto_scalare' non definita. Verrà considerata come esterna che restituisce un int.
+  prodotto_scalare.c
+C:\Users\utente\Desktop\Progetti in c\esercizi libro\j2.6\prodotto_scalare.c(4,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Generazione del codice in corso...
+  j2.6.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi libro\j2.6\Debug\j2.6.exe

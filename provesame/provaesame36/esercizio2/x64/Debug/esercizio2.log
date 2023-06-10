@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio2\main.c(7,22): warning C4047: 'funzione': 'const int *' differisce da 'int (*)[8]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio2\main.c(7,20): warning C4024: 'rimuovi_multipli': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio2\main.c(7,35): warning C4047: 'funzione': 'size_t *' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio2\main.c(7,27): warning C4024: 'rimuovi_multipli': tipi diversi tra il parametro 3 formale e quello effettivo
+  multipli.c
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio2\x64\Debug\esercizio2.exe

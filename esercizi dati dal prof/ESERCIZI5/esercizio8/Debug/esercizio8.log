@@ -1,0 +1,4 @@
+﻿  felici.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio8\felici.c(11,27): warning C4013: 'numerocifre' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio8\felici.c(14,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  esercizio8.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio8\Debug\esercizio8.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+  partition.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame46\esercizio2\partition.c(39): warning C4715: 'find_first_partition': non tutti i percorsi di controllo restituiscono un valore
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame46\esercizio2\x64\Debug\esercizio2.exe

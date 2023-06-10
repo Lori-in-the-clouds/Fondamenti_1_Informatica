@@ -1,0 +1,5 @@
+﻿  main.c
+  stringhe.c
+C:\Users\utente\Desktop\Progetti in c\provesame\esercizio4prova33\stringhe.c(9,18): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  esercizio4prova33.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\esercizio4prova33\x64\Debug\esercizio4prova33.exe

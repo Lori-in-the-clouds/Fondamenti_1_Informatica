@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio9\main.c(6,18): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio9\main.c(10,26): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio9\main.c(13,18): warning C4244: 'return': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio9\main.c(22,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio9\main.c(20,12): warning C4101: 'i': variabile locale senza riferimenti
+  esercizio9.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\esercizio9\Debug\esercizio9.exe

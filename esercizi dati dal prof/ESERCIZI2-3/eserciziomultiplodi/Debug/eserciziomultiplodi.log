@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: _main già definito in eserciziomultiplodi.obj
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\eserciziomultiplodi\Debug\eserciziomultiplodi.exe : fatal error LNK1169: rilevato uno o più simboli definiti più volte

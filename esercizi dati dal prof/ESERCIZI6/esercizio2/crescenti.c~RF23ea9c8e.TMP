@@ -1,0 +1,20 @@
+#include <stdbool.h>
+#include <stdlib.h>
+ bool crescenti(unsigned int x) {
+	 if (x / 10 == 0) {
+		 return true;
+	 }
+	 //conto cifre e metto ciascun cifre nell'array;
+	 int i = 0;
+	 int j = 0;
+	 int numcif = 0;
+	 int* ris = NULL;
+	 while (x != 0) {
+		 realloc(ris, (j + 1) * sizeof(int));
+		 (x / i) % 10;
+		 ris[j] = x;
+		 j++;
+		 i += 10;
+		 numcif++;
+	}
+}

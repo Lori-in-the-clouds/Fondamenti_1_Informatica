@@ -1,0 +1,4 @@
+﻿  morse.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame43\esercizio5\morse.c(9,18): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame43\esercizio5\x64\Debug\esercizio5.exe : fatal error LNK1120: 1 esterni non risolti

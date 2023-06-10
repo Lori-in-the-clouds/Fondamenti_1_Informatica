@@ -1,0 +1,13 @@
+#include <stdbool.h>
+#include <stdlib.h>
+
+bool is_ugly(unsigned int num) {
+	//trovo i fattori primi
+	int i = 2;
+	while (num != 0) {
+		if (num % i == 0) {
+			num = num / i;
+			i++;
+		}
+	}
+}

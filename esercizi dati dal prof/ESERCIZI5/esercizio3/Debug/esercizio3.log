@@ -1,0 +1,7 @@
+﻿  lettura.c
+  main.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio3\main.c(7,40): warning C4047: 'funzione': 'size_t *' differisce da 'size_t **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio3\main.c(7,40): warning C4024: 'leggiinteri2': tipi diversi tra il parametro 2 formale e quello effettivo
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio3\lettura.c(19): warning C4715: 'leggiinteri2': non tutti i percorsi di controllo restituiscono un valore
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI5\esercizio3\Debug\esercizio3.exe

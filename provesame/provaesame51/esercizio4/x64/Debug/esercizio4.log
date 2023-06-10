@@ -1,0 +1,4 @@
+﻿  matrix.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame51\esercizio4\matrix.c(71,12): warning C4267: '-=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame51\esercizio4\matrix.c(77): warning C4716: 'mat_mul': deve restituire un valore
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame51\esercizio4\x64\Debug\esercizio4.exe

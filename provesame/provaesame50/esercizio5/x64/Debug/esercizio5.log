@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame50\esercizio5\main.c(5,1): warning C4047: 'inizializzazione': 'uint32_t' differisce da 'char [5]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame50\esercizio5\main.c(6,1): warning C4047: 'inizializzazione': 'uint8_t' differisce da 'void *' nei livelli di riferimento indiretto
+  utf8.c
+  Generazione del codice in corso...
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame50\esercizio5\utf8.c(5): warning C4716: 'utf8_encode': deve restituire un valore
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame50\esercizio5\x64\Debug\esercizio5.exe

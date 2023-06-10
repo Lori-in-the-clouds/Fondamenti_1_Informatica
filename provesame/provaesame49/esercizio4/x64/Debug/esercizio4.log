@@ -1,0 +1,5 @@
+﻿  hexstring.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame49\esercizio4\hexstring.c(5,1): warning C4047: 'inizializzazione': 'uint8_t' differisce da 'char [3]' nei livelli di riferimento indiretto
+  main.c
+  Generazione del codice in corso...
+  esercizio4.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame49\esercizio4\x64\Debug\esercizio4.exe

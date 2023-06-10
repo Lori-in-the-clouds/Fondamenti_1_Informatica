@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio5\main.c(6,23): warning C4047: 'funzione': 'const int *' differisce da 'int (*)[7]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio5\main.c(6,21): warning C4024: 'prodotto_altri_due': tipi diversi tra il parametro 1 formale e quello effettivo
+  prodotto.c
+  Generazione del codice in corso...
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio5\x64\Debug\esercizio5.exe

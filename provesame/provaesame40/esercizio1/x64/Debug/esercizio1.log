@@ -1,0 +1,6 @@
+﻿  entropia.c
+  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame40\esercizio1\main.c(5,13): warning C4047: 'funzione': 'const double *' differisce da 'double (*)[2]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame40\esercizio1\main.c(5,11): warning C4024: 'entropia': tipi diversi tra il parametro 1 formale e quello effettivo
+  Generazione del codice in corso...
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame40\esercizio1\x64\Debug\esercizio1.exe

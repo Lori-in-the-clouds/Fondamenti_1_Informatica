@@ -1,0 +1,6 @@
+﻿  fire_sym.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame35\esercizio5\fire_sym.c(47,19): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame35\esercizio5\fire_sym.c(56,19): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  main.c
+  Generazione del codice in corso...
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame35\esercizio5\x64\Debug\esercizio5.exe

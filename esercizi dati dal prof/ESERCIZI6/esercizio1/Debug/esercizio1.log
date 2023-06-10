@@ -1,0 +1,7 @@
+﻿  main.c
+  matrix.c
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI6\esercizio1\matrix.c(15,17): warning C4047: 'funzione': 'matrix *' differisce da 'const matrix **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI6\esercizio1\matrix.c(15,17): warning C4024: 'mat_constr': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI6\esercizio1\matrix.c(16,12): warning C4090: 'return': qualificatori 'const' differenti
+  Generazione del codice in corso...
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Progetti in c\esercizi dati dal prof\ESERCIZI6\esercizio1\Debug\esercizio1.exe

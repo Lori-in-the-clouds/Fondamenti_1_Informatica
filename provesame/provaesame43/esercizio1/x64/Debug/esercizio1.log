@@ -1,0 +1,5 @@
+﻿  cerchio.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame43\esercizio1\cerchio.c(7,14): warning C4047: 'return': 'bool' differisce da 'void *' nei livelli di riferimento indiretto
+  main.c
+  Generazione del codice in corso...
+  esercizio1.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame43\esercizio1\x64\Debug\esercizio1.exe

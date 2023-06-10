@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio3\main.c(14,17): warning C4047: 'funzione': 'rect *' differisce da 'rect **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio3\main.c(14,15): warning C4024: 'rect_load': tipi diversi tra il parametro 2 formale e quello effettivo
+  rectangle.c
+  Generazione del codice in corso...
+  esercizio3.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame41\esercizio3\x64\Debug\esercizio3.exe

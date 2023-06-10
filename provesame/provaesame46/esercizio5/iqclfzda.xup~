@@ -1,0 +1,9 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <stdlib.h>
+#include "product.h"
+void write_product(FILE* f, const struct product* list, size_t n) {
+	fprintf(stdout, "%c\n", '[');
+	fprintf(stdout, "%c", '\09');
+
+}

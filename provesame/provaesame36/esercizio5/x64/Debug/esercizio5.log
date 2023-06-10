@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio5\main.c(21,25): warning C4047: 'funzione': 'const size_t *' differisce da 'size_t (*)[4]' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio5\main.c(21,23): warning C4024: 'mat_permute_rows': tipi diversi tra il parametro 2 formale e quello effettivo
+  matrix.c
+  Generazione del codice in corso...
+  esercizio5.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame36\esercizio5\x64\Debug\esercizio5.exe

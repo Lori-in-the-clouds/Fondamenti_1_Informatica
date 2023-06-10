@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame49\esercizio2\main.c(20,19): warning C4047: 'funzione': 'const point *' differisce da 'point **' nei livelli di riferimento indiretto
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame49\esercizio2\main.c(20,17): warning C4024: 'write_points': tipi diversi tra il parametro 2 formale e quello effettivo
+  WTK.c
+C:\Users\utente\Desktop\Progetti in c\provesame\provaesame49\esercizio2\WTK.c(8,14): warning C4047: 'return': 'size_t' differisce da 'void *' nei livelli di riferimento indiretto
+  Generazione del codice in corso...
+  esercizio2.vcxproj -> C:\Users\utente\Desktop\Progetti in c\provesame\provaesame49\esercizio2\x64\Debug\esercizio2.exe
